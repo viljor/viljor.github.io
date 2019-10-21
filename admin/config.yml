@@ -2,7 +2,7 @@ backend:
   name: github
   repo: viljor/viljor.github.io
   branch: master
-  site_domain: unruffled-spence-b6e9eb.netlify.com/
+  site_domain: https://unruffled-spence-b6e9eb.netlify.com/
 
 media_folder: "images/uploads"
 
