@@ -2,8 +2,10 @@ backend:
   name: github
   repo: viljor/viljor.github.io
   branch: master
-  site_domain: unruffled-spence-b6e9eb.netlify.com/
-  base_url: https://unruffled-spence-b6e9eb.netlify.com/
+  base_url: https://api.netlify.com
+  site_domain: viljor.github.io
+  auth_endpoint: auth
+  api_root: https://api.github.com
 
 media_folder: "images/uploads"
 
