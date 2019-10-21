@@ -1,0 +1,7 @@
+name: viljor-git
+markdown: kramdown
+theme: minima
+url: "https://viljor.github.io"
+collections:
+  blog:
+    output: true
